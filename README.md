@@ -1,4 +1,19 @@
-### Hi there 👋
+*Hi!* I'm Markus (he/him), a combined honours student in cs and math at [UBC](https://www.ubc.ca).
+
+Broadly speaking, I am interested in **breaking down the barriers between proofs and code**, through *langauge design*, *software practices*, and *theorem provers* (including theorem provers made of meat). 
+
+#### My Current Fascinations Include
+
+- Exploiting the [equivalence between type theory, computation, and category theory](https://ncatlab.org/nlab/show/computational+trilogy) for practical software practices.
+- Applications of [semigroup theory for DFA's](https://arxiv.org/abs/1508.06345); the computational holonomy decomposition. 
+- Exploring the limits of computability with high level, proof-oriented langauges such as Idris, and
+- The realization of proof practices to low- and systems- level projects. 
+
+
+#### Contact me!
+
+If your project sounds like the above, or you're just in the market for a relentless Haskell nutjob, [hit me up on my site](https://www.markusde.ca)!
+
 
 <!--
 **markusdemedeiros/markusdemedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
