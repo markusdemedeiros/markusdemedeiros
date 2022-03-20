@@ -4,7 +4,7 @@ Broadly speaking, I am interested in **breaking down the barriers between proofs
 
 #### My Current Fascinations Include
 
-- Exploiting the [equivalence between type theory, computation, and category theory](https://ncatlab.org/nlab/show/computational+trilogy) for practical software practices.
+- The [correspondence between type theory, computation, and category theory](https://ncatlab.org/nlab/show/computational+trilogy).
 - Applications of [semigroup theory for DFA's](https://arxiv.org/abs/1508.06345); the computational holonomy decomposition. 
 - Exploring the limits of computability with high level, proof-oriented langauges such as Idris, and
 - The realization of proof practices to low- and systems- level projects. 
