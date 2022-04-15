@@ -1,6 +1,6 @@
 *Hi!* I'm Markus (he/him), a combined honours student in cs and math at [UBC](https://www.ubc.ca).
 
-Broadly speaking, I am interested in **breaking down the barriers between proofs and code**, through *langauge design*, *software practices*, and *theorem provers* (including theorem provers made of meat). 
+Broadly speaking, I am interested in **the interaction between proofs and code**, through *langauge design*, *software practices*, and *theorem provers* (including theorem provers made of meat). 
 
 #### My Current Fascinations Include
 
