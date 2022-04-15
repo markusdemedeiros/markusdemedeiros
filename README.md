@@ -12,7 +12,7 @@ Broadly speaking, I am interested in **the interaction between proofs and code**
 
 #### Contact me!
 
-If your project sounds like the above, or you're just in the market for a relentless Haskell nutjob, [hit me up on my site](https://www.markusde.ca)!
+If your project sounds like the above, or you're just in the market for a relentless Haskell sycophant, [hit me up on my site](https://www.markusde.ca)!
 
 
 <!--
