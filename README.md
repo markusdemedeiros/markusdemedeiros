@@ -1,7 +1,7 @@
-*Hi!* I'm Markus (he/him), a combined honours student in cs and math at [UBC](https://www.ubc.ca).
+I'm markus (he/him)
 
-Broadly speaking, I am interested in **the interaction between proofs and code**, through *langauge design*, *software practices*, and *theorem provers* (including theorem provers made of meat). 
+My website is markusde.ca 
 
-#### Contact me!
+I like writing proofs and programs that look like proofs
 
-If your project sounds like the above, or you're just in the market for a relentless Haskell sycophant, [hit me up on my site](https://www.markusde.ca)!
+If it's worth doing, it's woth doing a total hatchet job of
